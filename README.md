@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nicktuck1109
-- 👀 I’m interested in ...game design
-- 🌱 I’m currently learning ...game design and cybersecurity
-- 💞️ I’m looking to collaborate on ...programming and designing video games
+- 👀 I’m interested in ...Game Design and UI/UX Design
+- 🌱 I’m currently learning ...Game Design and UI/UX Design
+- 💞️ I’m looking to collaborate on ...designing and programming video games
 - 📫 How to reach me ...nicktuck1109@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I'm good at swimming
+- ⚡ Fun fact: ...I love photography and making music
 
 <!---
 nicktuck1109/nicktuck1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
